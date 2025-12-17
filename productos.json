@@ -1,0 +1,154 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Moño Boutique",
+      "precio": 35.00,
+      "categoria": "moños",
+      "imagen": "moños/moño_boutique.webp",
+      "descripcion": "Moño boutique con liston estampado",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "nombre": "Moño Coletero",
+      "precio": 40.00,
+      "categoria": "moños",
+      "imagen": "moños/moño_coletero.webp",
+      "descripcion": "Moño colatero estampado con perlas",
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "nombre": "Moño Unicornio",
+      "precio": 15.00,
+      "categoria": "moños",
+      "imagen": "moños/moño_unicornio.webp",
+      "descripcion": "Moño unicornio par con caritas",
+      "disponible": true
+    },
+    {
+      "id": 4,
+      "nombre": "Leles",
+      "precio": 40.00,
+      "categoria": "diademas",
+      "imagen": "diademas/leles.webp",
+      "descripcion": "Diademas con listones coloridos",
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "nombre": "Diadema con 4 flores",
+      "precio": 25.00,
+      "categoria": "diademas",
+      "imagen": "diademas/diadema_4flores.webp",
+      "descripcion": "Diadema con 4 flores decorativas",
+      "disponible": true
+    },
+    {
+      "id": 6,
+      "nombre": "Moño pulpo",
+      "precio": 15.00,
+      "categoria": "moños",
+      "imagen": "moños/moño_pulpo.webp",
+      "descripcion": "Moño pulpo con detalles de mini moñitos",
+      "disponible": true
+    },
+    {
+      "id": 7,
+      "nombre": "Balerina con flor",
+      "precio": 12.00,
+      "categoria": "balerinas",
+      "imagen": "balerinas/balerina_flor.webp",
+      "descripcion": "Balerina con flor y perla decorativa",
+      "disponible": true
+    },
+    {
+      "id": 8,
+      "nombre": "Balerina Boutique",
+      "precio": 12.00,
+      "categoria": "balerinas",
+      "imagen": "balerinas/balerina_bouique.webp",
+      "descripcion": "Balerina boutique con perlas",
+      "disponible": true
+    },
+    {
+      "id": 9,
+      "nombre": "Moño con caritas",
+      "precio": 15.00,
+      "categoria": "moños",
+      "imagen": "moños/moño_carita.webp",
+      "descripcion": "Moño con caritas",
+      "disponible": true
+    },
+    {
+      "id": 10,
+      "nombre": "Peineta con flor",
+      "precio": 20.00,
+      "categoria": "peinetas",
+      "imagen": "peineta/peinetas_rosaeterna.webp",
+      "descripcion": "Peineta de rosas eternas",
+      "disponible": true
+    },
+    {
+      "id": 11,
+      "nombre": "Moño Reno",
+      "precio": 15.00,
+      "categoria": "navidad",
+      "imagen": "navidad/moño_reno.webp",
+      "descripcion": "Moño navideño con cuernos de reno",
+      "disponible": true
+    },
+    {
+      "id": 12,
+      "nombre": "Moño Santa",
+      "precio": 12.00,
+      "categoria": "navidad",
+      "imagen": "navidad/moño_santa.webp",
+      "descripcion": "Moño navideño con traje de Santa Claus",
+      "disponible": true
+    },
+    {
+      "id": 13,
+      "nombre": "Moño Arbol de Navidad",
+      "precio": 10.00,
+      "categoria": "navidad",
+      "imagen": "navidad/moño_arbol.webp",
+      "descripcion": "Moño en forma de arbol de Navidad",
+      "disponible": true
+    }
+    
+  ],
+  "categorias": [
+    {
+      "id": "todos",
+      "nombre": "Todos",
+      "activa": true
+    },
+    {
+      "id": "moños",
+      "nombre": "Moños",
+      "activa": false
+    },
+    {
+      "id": "diademas",
+      "nombre": "Diademas",
+      "activa": false
+    },
+    {
+      "id": "balerinas",
+      "nombre": "Balerinas",
+      "activa": false
+    },
+    {
+      "id": "peinetas",
+      "nombre": "Peinetas",
+      "activa": false
+    },
+    {
+      "id": "navidad",
+      "nombre": "Navidad",
+      "activa": false
+    }
+  ]
+}
